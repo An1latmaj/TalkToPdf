@@ -199,6 +199,3 @@ TalkToPDF/
 
 All processing happens locally on your machine. Your documents and queries never leave your computer, making this a privacy-friendly solution for document question-answering.
 
-## License
-
-[Insert license information here]
