@@ -73,8 +73,11 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 Open a terminal/command prompt and run:
 ```bash
-# Download language model for answering questions
+# Download language models for answering questions
 ollama pull tinyllama
+ollama pull llama2
+ollama pull mistral
+ollama pull gemma 
 
 # Download embedding model for document indexing
 ollama pull nomic-embed-text
