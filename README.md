@@ -157,7 +157,10 @@ TalkToPDF/
 - **Model not found errors**:
   ```bash
   ollama list  # Check if models are installed
-  ollama pull tinyllama  # Pull missing model
+  ollama pull tinyllama  # Pull missing models
+  ollama pull mistral
+  ollama pull gemma
+  ollama pull llama2
   ollama pull nomic-embed-text
   ```
 
